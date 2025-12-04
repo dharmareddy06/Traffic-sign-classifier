@@ -1,0 +1,4 @@
+project_id = "lwwkjrnzxhjqqyxaaadw"
+
+[functions.classify-traffic-sign]
+verify_jwt = false
